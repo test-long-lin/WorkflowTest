@@ -1,1 +1,1 @@
-userinfo_validation
+email_info_validation
